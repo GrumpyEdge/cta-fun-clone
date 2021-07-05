@@ -1,0 +1,22 @@
+.gw-teams {
+    width: 100%;
+    height: 100%;
+}
+
+.gw-teams .team-name {
+    width: 100%;
+}
+
+.gw-teams .team-row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.gw-teams .heros-tiles {
+    padding-top: 10px;
+}
+
+.gw-teams .fort, .gw-teams .castle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,6 @@
+db/config.json
+db/backup
+discord.secret*
+.DS_Store
+replays/*.html
+node_modules

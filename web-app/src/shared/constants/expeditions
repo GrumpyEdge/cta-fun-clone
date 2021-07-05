@@ -1,0 +1,59 @@
+5s 12h 3410000 x268
+5s 10h 0000000 x228
+5s 8h  2970000 x187
+5s 5h  2640000 x126
+5s 1h  2200000
+
+4s 12h 968750 x179 + x16 flooz
+4s 10h 906250 x?
+4s 8h  843750 x125 (900 rune dust)
+4s 5h  750000 x84
+4s 4h  718750 x71
+4s 3h  687500 x57
+4s 1h  625000 x?
+
+3s 6h  212500 x65
+3s 5h  204000 x56
+3s 4h  204000 x47
+3s 3h  187000 x38
+3s 2h  178500 x29
+3s 1h  170000 x20
+
+2s 6h  56250  x49
+2s 5h  54000  x42
+2s 4h  51750  x36
+2s 3h  49500  x29
+2s 2h  47500  x22
+2s 1h  45000  x15
+
+1s 2h  7350   x15
+1s 6h  8750   x33 
+1s 5h  8400   x28
+1s 4h  8050   x24
+1s 3h  7700   x19
+1s 2h  7350   x15
+1s 1h  7000   x10
+
+10, 15, 19, 24, 28, 33
+    15, 22, 29, 36, 42, 49
+        20, 29 ,38, 47, 56, 65
+            30, 44, 57, 71, 84,
+
+
+base 5 + 5*star
+increment per hour 50% of base Math.floor
+
+Additional rewards:
+Hero medals x mission stars
+Runes stencils x mission stars
+Dust 600 + 100*star
+
+
+rare
+Valken Hideout
+5h 3s 204000  9commons
+4h 2s 51750
+
+mm
+2s 2700 x1mm 6000rd
+4s 8100 x1mm 8000rd

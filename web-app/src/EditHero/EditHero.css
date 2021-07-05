@@ -1,0 +1,33 @@
+.edit-hero {
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.edit-hero .input {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    line-height: 36px;
+}
+
+.edit-hero .input img {
+    width: 32px;
+    height: 32px;
+}
+
+.edit-hero .input input{
+    width: 70px;
+    font-size: 26px;
+    text-align: right;
+}
+
+.edit-hero img {
+    width: 100%;
+}
+
+.edit-hero button {
+    font-size: 30px;
+}

@@ -1,0 +1,35 @@
+{
+    "parser": "babel-eslint",
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [
+            ".mjs",
+            ".js",
+            ".jsx",
+            ".json"
+          ]
+        }
+      }
+    },
+    "extends": [
+      "eslint:recommended",
+      "prettier",
+      "plugin:react/recommended"
+    ],
+    "plugins": [
+      "standard",
+      "flowtype"
+    ],
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "sourceType": "module",
+      "ecmaVersion": 10
+    },
+    "rules": {
+      "react/prop-types": 0
+    }
+  }

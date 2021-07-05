@@ -1,0 +1,14 @@
+.find-best-match {
+    width: 100%;
+    height: 100%;
+    font-size: 18px;
+}
+
+.find-best-match select, .find-best-match input {
+    font-size: 18px !important;
+    margin: 5px;
+}
+
+.find-best-match .result-row {
+    margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+{
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [
+            ".mjs",
+            ".js",
+            ".jsx",
+            ".json"
+          ]
+        }
+      }
+    },
+    "extends": [
+      "eslint:recommended",
+      "prettier"
+    ],
+    "plugins": [
+      "standard"
+    ],
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "sourceType": "module",
+      "ecmaVersion": 10
+    }
+  }

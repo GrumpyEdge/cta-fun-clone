@@ -1,0 +1,16 @@
+.teams {
+    width: 100%;
+    height: 100%;
+}
+
+.teams .team-name {
+    width: 100%;
+}
+
+.teams .team-row {
+    padding-top: 20px;
+}
+
+.teams .heros-tiles {
+    padding-top: 10px;
+}
